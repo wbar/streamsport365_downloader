@@ -19,7 +19,7 @@ FRAGMENT_URL = "https://edge8.xmediaget.com:743/edge1/xrecord/{VIDEO_ID}/{FRAGME
 COMMON_HEADERS = {
     "Origin": "https://streamsport365.com",
     "Referer": "https://streamsport365.com",
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Linux; 8.1.0; BV5500) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36"
 }
 
 
